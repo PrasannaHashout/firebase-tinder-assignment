@@ -1,0 +1,28 @@
+h1{
+      text-align: center;
+      margin-bottom: 50px;
+}
+
+form{ 
+      margin: auto;
+      width: 600px;
+}
+
+form.form-content {
+      display: table;
+  }
+  
+  div.form-content {
+      display: table-row;
+  }
+  
+  label, input {
+      display: table-cell;
+      margin-bottom: 30px;
+      font-size: 28px;
+  }
+  
+  label {
+      padding-right: 10px;
+  }
+  
